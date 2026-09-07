@@ -5,13 +5,13 @@ about:
   head: 7158aea
   archived: false
   latestVersion: "v0.8.6"
-  collectedAt: 2026-09-07T05:18:51Z
+  collectedAt: 2026-09-07T19:07:27Z
 timeline:
   created: 2024-09-11
   lastCommit: 2026-08-30
   lastRelease: 2026-06-07
 popularity:
-  star: 1650
+  star: 1651
   watcher: 19
   fork: 77
   release: 20
@@ -81,7 +81,7 @@ total:
   commit: 584
 ---
 path: /home/runner/.x-repo/github.com/Benexl/yt-x
-collectedAt: 2026-09-07T05:18:52Z
+collectedAt: 2026-09-07T19:07:28Z
 loc:
   Sh:
     code: 5126
@@ -117,7 +117,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:18:53+00:00
+  collectedAt: 2026-09-07T19:07:29+00:00
   platform:
     darwin/arm64:
       name:  null
