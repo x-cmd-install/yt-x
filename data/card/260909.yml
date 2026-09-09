@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.8.6"
   latestRelease: "v0.8.6"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:25:12Z
+  collectedAt: 2026-09-09T19:46:06Z
 timeline:
   created: 2024-09-11
   lastCommit: 2026-08-30
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-06-07
   lastPrerelease: 
 popularity:
-  star: 1652
+  star: 1653
   watcher: 19
   fork: 77
   release: 20
@@ -85,7 +85,7 @@ total:
   commit: 584
 ---
 path: /home/runner/.x-repo/github.com/Benexl/yt-x
-collectedAt: 2026-09-09T05:25:14Z
+collectedAt: 2026-09-09T19:46:07Z
 loc:
   Sh:
     code: 5126
