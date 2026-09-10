@@ -12,7 +12,7 @@ Posix script to browse youtube plus other yt-dlp supported sites from your termi
 x install yt-x
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **5,210** 行代码（覆盖前 5 种语言、共 **12** 个文件）。
 
@@ -37,7 +37,7 @@ x install yt-x
 
 ## 流行度
 
-- **Star**: 1,653 · **Fork**: 77 · **开放 issue**: 132 · **贡献者**: 27
+- **Star**: 1,654 · **Fork**: 77 · **开放 issue**: 132 · **贡献者**: 27
 
 ## 累计统计
 
@@ -81,4 +81,4 @@ yt-x 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T20:41:38Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:03:53Z._
