@@ -12,6 +12,18 @@ Posix script to browse youtube plus other yt-dlp supported sites from your termi
 x install yt-x
 ```
 
+## Code insight
+
+Total: **5,210** lines of code across **12** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Sh | 5,126 | 362 | 733 | 6 |
+| Nix | 64 | 0 | 8 | 2 |
+| Bitbake | 20 | 10 | 2 | 2 |
+| Markdown | 0 | 826 | 354 | 1 |
+| Text | 0 | 1 | 0 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/Benexl/yt-x>
@@ -22,7 +34,6 @@ x install yt-x
 - **Latest**: `v0.8.6` (2026-06-07)
 - **Last commit**: 2026-08-30
 - **Assets in release**: 9
-- **Published**: 2026-06-07T06:23:56Z
 
 ## Popularity
 
@@ -37,28 +48,37 @@ x install yt-x
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 2 | 0 | 1 | 2 | 5 |
+| last60d | 2026-07-12 | 0 | 2 | 0 | 2 | 3 | 24 |
 | 90d | 2026-06-12 | 0 | 4 | 0 | 4 | 3 | 25 |
+| last180d | 2026-03-14 | 11 | 12 | 0 | 26 | 9 | 316 |
 | 360d | 2025-09-15 | 11 | 18 | 0 | 48 | 11 | 332 |
+| last720d | 2024-09-20 | 20 | 45 | 0 | 121 | 11 | 583 |
 
-## Code size
+## Release assets
 
-Total: **5,210** lines of code across **12** files in the top 5 languages.
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [br.lang](https://github.com/Benexl/yt-x/releases/download/v0.8.6/br.lang) | 23.5 KiB | `other` |
+| [catppuchin-mocha.theme](https://github.com/Benexl/yt-x/releases/download/v0.8.6/catppuchin-mocha.theme) | 3.2 KiB | `other` |
+| [dailymotion.site](https://github.com/Benexl/yt-x/releases/download/v0.8.6/dailymotion.site) | 4.6 KiB | `other` |
+| [downloads](https://github.com/Benexl/yt-x/releases/download/v0.8.6/downloads) | 8.1 KiB | `other` |
+| [es.lang](https://github.com/Benexl/yt-x/releases/download/v0.8.6/es.lang) | 24.1 KiB | `other` |
+| [mpv.conf](https://github.com/Benexl/yt-x/releases/download/v0.8.6/mpv.conf) | 613 B | `other` |
+| [rofi-themes.zip](https://github.com/Benexl/yt-x/releases/download/v0.8.6/rofi-themes.zip) | 4.4 KiB | `other` |
+| [yt-dlp.conf](https://github.com/Benexl/yt-x/releases/download/v0.8.6/yt-dlp.conf) | 1.1 KiB | `other` |
+| [yt-x](https://github.com/Benexl/yt-x/releases/download/v0.8.6/yt-x) | 163.1 KiB | `other` |
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Sh | 5,126 | 362 | 733 | 6 |
-| Nix | 64 | 0 | 8 | 2 |
-| Bitbake | 20 | 10 | 2 | 2 |
-| Markdown | 0 | 826 | 354 | 1 |
-| Text | 0 | 1 | 0 | 1 |
+## Distribution status
+
+Reported by **3** distros on [repology.org](https://repology.org/project/yt-x). **2** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
 ## Improve this data
 
 Install metadata for yt-x lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `yt-x` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/yt-x.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/yt-x.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:28:17Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:41:38Z._

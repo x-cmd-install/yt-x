@@ -4,13 +4,25 @@
 
 Posix script to browse youtube plus other yt-dlp supported sites from your terminal (fzf) or app launcher (rofi) with optional previews. (supports bash, zsh and dash)
 
-![yt-x](https://repo.x-cmd.io/yt-x.svg)
+![yt-x](https://repo.x-cmd.io/yt-x.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install yt-x
 ```
+
+## 代码规模
+
+合计: **5,210** 行代码（覆盖前 5 种语言、共 **12** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Sh | 5,126 | 362 | 733 | 6 |
+| Nix | 64 | 0 | 8 | 2 |
+| Bitbake | 20 | 10 | 2 | 2 |
+| Markdown | 0 | 826 | 354 | 1 |
+| Text | 0 | 1 | 0 | 1 |
 
 ## 源代码
 
@@ -22,7 +34,6 @@ x install yt-x
 - **最新版本**: `v0.8.6` (2026-06-07)
 - **最近提交**: 2026-08-30
 - **Release 含资产**: 9 个
-- **发布时间**: 2026-06-07T06:23:56Z
 
 ## 流行度
 
@@ -37,20 +48,29 @@ x install yt-x
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 2 | 0 | 1 | 2 | 5 |
+| last60d | 2026-07-12 | 0 | 2 | 0 | 2 | 3 | 24 |
 | 90d | 2026-06-12 | 0 | 4 | 0 | 4 | 3 | 25 |
+| last180d | 2026-03-14 | 11 | 12 | 0 | 26 | 9 | 316 |
 | 360d | 2025-09-15 | 11 | 18 | 0 | 48 | 11 | 332 |
+| last720d | 2024-09-20 | 20 | 45 | 0 | 121 | 11 | 583 |
 
-## 代码规模
+## Release 资产
 
-合计: **5,210** 行代码（覆盖前 5 种语言、共 **12** 个文件）。
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [br.lang](https://github.com/Benexl/yt-x/releases/download/v0.8.6/br.lang) | 23.5 KiB | `other` |
+| [catppuchin-mocha.theme](https://github.com/Benexl/yt-x/releases/download/v0.8.6/catppuchin-mocha.theme) | 3.2 KiB | `other` |
+| [dailymotion.site](https://github.com/Benexl/yt-x/releases/download/v0.8.6/dailymotion.site) | 4.6 KiB | `other` |
+| [downloads](https://github.com/Benexl/yt-x/releases/download/v0.8.6/downloads) | 8.1 KiB | `other` |
+| [es.lang](https://github.com/Benexl/yt-x/releases/download/v0.8.6/es.lang) | 24.1 KiB | `other` |
+| [mpv.conf](https://github.com/Benexl/yt-x/releases/download/v0.8.6/mpv.conf) | 613 B | `other` |
+| [rofi-themes.zip](https://github.com/Benexl/yt-x/releases/download/v0.8.6/rofi-themes.zip) | 4.4 KiB | `other` |
+| [yt-dlp.conf](https://github.com/Benexl/yt-x/releases/download/v0.8.6/yt-dlp.conf) | 1.1 KiB | `other` |
+| [yt-x](https://github.com/Benexl/yt-x/releases/download/v0.8.6/yt-x) | 163.1 KiB | `other` |
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Sh | 5,126 | 362 | 733 | 6 |
-| Nix | 64 | 0 | 8 | 2 |
-| Bitbake | 20 | 10 | 2 | 2 |
-| Markdown | 0 | 826 | 354 | 1 |
-| Text | 0 | 1 | 0 | 1 |
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/yt-x) 上共有 **3** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
 
 ## 改进这些数据
 
@@ -61,4 +81,4 @@ yt-x 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:28:17Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:41:38Z._
