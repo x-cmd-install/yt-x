@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 166981,
       "digest": "sha256:4981ebeaa1464f868f04132f65a141bcf0bc9bff09df01e35e35fa13973d2c9b",
-      "download_count": 1563,
+      "download_count": 1571,
       "created_at": "2026-06-07T06:24:04Z",
       "updated_at": "2026-06-07T06:24:04Z",
       "browser_download_url": "https://github.com/Benexl/yt-x/releases/download/v0.8.6/yt-x"
