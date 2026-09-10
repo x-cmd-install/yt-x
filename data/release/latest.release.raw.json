@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 24040,
       "digest": "sha256:e99eb152d09dd5e24fe8fc88ea87afffd06ab546b8ef77e7378ac10596aeec63",
-      "download_count": 35,
+      "download_count": 36,
       "created_at": "2026-06-07T06:24:04Z",
       "updated_at": "2026-06-07T06:24:04Z",
       "browser_download_url": "https://github.com/Benexl/yt-x/releases/download/v0.8.6/br.lang"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3268,
       "digest": "sha256:d198caea88267c66907edd90ef0c4b1efe9a227a4ddb378ed5c3bc9067e431b1",
-      "download_count": 64,
+      "download_count": 65,
       "created_at": "2026-06-07T06:24:04Z",
       "updated_at": "2026-06-07T06:24:04Z",
       "browser_download_url": "https://github.com/Benexl/yt-x/releases/download/v0.8.6/catppuchin-mocha.theme"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4723,
       "digest": "sha256:09f6d2bbc0d08143259489cfc6f0ef3b84576ca9072f0905fe8063788b408f25",
-      "download_count": 32,
+      "download_count": 33,
       "created_at": "2026-06-07T06:24:04Z",
       "updated_at": "2026-06-07T06:24:04Z",
       "browser_download_url": "https://github.com/Benexl/yt-x/releases/download/v0.8.6/dailymotion.site"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 8309,
       "digest": "sha256:39304343aa7a67a8f13ae9a8673ca53d758ed98552f1a2b42038511f5d244585",
-      "download_count": 175,
+      "download_count": 176,
       "created_at": "2026-06-07T06:24:04Z",
       "updated_at": "2026-06-07T06:24:04Z",
       "browser_download_url": "https://github.com/Benexl/yt-x/releases/download/v0.8.6/downloads"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 24666,
       "digest": "sha256:a204fbccbe7dbabb72d6c1d3934d65af4bfe170d864fd68c7c258e080a3ac3f5",
-      "download_count": 41,
+      "download_count": 42,
       "created_at": "2026-06-07T06:24:04Z",
       "updated_at": "2026-06-07T06:24:04Z",
       "browser_download_url": "https://github.com/Benexl/yt-x/releases/download/v0.8.6/es.lang"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 613,
       "digest": "sha256:99ad394a32184592d256062abfac9dab7b4107996cbe2100870a5dd9617f27af",
-      "download_count": 208,
+      "download_count": 209,
       "created_at": "2026-06-07T06:24:04Z",
       "updated_at": "2026-06-07T06:24:04Z",
       "browser_download_url": "https://github.com/Benexl/yt-x/releases/download/v0.8.6/mpv.conf"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1102,
       "digest": "sha256:8eda361b6340ca61dbe77c8734ec0383b959dbe1285a39a087cb756ef094d061",
-      "download_count": 205,
+      "download_count": 206,
       "created_at": "2026-06-07T06:24:04Z",
       "updated_at": "2026-06-07T06:24:04Z",
       "browser_download_url": "https://github.com/Benexl/yt-x/releases/download/v0.8.6/yt-dlp.conf"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 166981,
       "digest": "sha256:4981ebeaa1464f868f04132f65a141bcf0bc9bff09df01e35e35fa13973d2c9b",
-      "download_count": 1571,
+      "download_count": 1584,
       "created_at": "2026-06-07T06:24:04Z",
       "updated_at": "2026-06-07T06:24:04Z",
       "browser_download_url": "https://github.com/Benexl/yt-x/releases/download/v0.8.6/yt-x"
