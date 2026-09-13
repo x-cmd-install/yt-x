@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 613,
       "digest": "sha256:99ad394a32184592d256062abfac9dab7b4107996cbe2100870a5dd9617f27af",
-      "download_count": 210,
+      "download_count": 211,
       "created_at": "2026-06-07T06:24:04Z",
       "updated_at": "2026-06-07T06:24:04Z",
       "browser_download_url": "https://github.com/Benexl/yt-x/releases/download/v0.8.6/mpv.conf"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1102,
       "digest": "sha256:8eda361b6340ca61dbe77c8734ec0383b959dbe1285a39a087cb756ef094d061",
-      "download_count": 209,
+      "download_count": 211,
       "created_at": "2026-06-07T06:24:04Z",
       "updated_at": "2026-06-07T06:24:04Z",
       "browser_download_url": "https://github.com/Benexl/yt-x/releases/download/v0.8.6/yt-dlp.conf"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 166981,
       "digest": "sha256:4981ebeaa1464f868f04132f65a141bcf0bc9bff09df01e35e35fa13973d2c9b",
-      "download_count": 1607,
+      "download_count": 1620,
       "created_at": "2026-06-07T06:24:04Z",
       "updated_at": "2026-06-07T06:24:04Z",
       "browser_download_url": "https://github.com/Benexl/yt-x/releases/download/v0.8.6/yt-x"
