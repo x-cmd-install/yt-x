@@ -37,22 +37,22 @@ Total: **5,210** lines of code across **12** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,664 · **Forks**: 79 · **Open issues**: 132 · **Contributors**: 27
+- **Stars**: 1,665 · **Forks**: 79 · **Open issues**: 132 · **Contributors**: 27
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 45 · **Open PRs**: 0 · **Closed issues**: 121 · **Open issues**: 11 · **Commits**: 584
+- **Releases**: 20 · **Merged PRs**: 45 · **Open PRs**: 1 · **Closed issues**: 122 · **Open issues**: 10 · **Commits**: 584
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-01 | 0 | 2 | 0 | 1 | 2 | 13 |
-| 90d | 2026-07-02 | 0 | 3 | 0 | 4 | 3 | 25 |
-| last180d | 2026-04-03 | 11 | 10 | 0 | 23 | 9 | 315 |
-| 360d | 2025-10-05 | 11 | 18 | 0 | 47 | 11 | 332 |
-| last720d | 2024-10-10 | 19 | 45 | 0 | 120 | 11 | 539 |
+| 30d | 2026-09-01 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-02 | 0 | 2 | 1 | 2 | 1 | 13 |
+| 90d | 2026-07-03 | 0 | 3 | 1 | 5 | 2 | 25 |
+| last180d | 2026-04-04 | 11 | 10 | 1 | 24 | 8 | 315 |
+| 360d | 2025-10-06 | 11 | 18 | 1 | 48 | 10 | 332 |
+| last720d | 2024-10-11 | 19 | 45 | 1 | 121 | 10 | 539 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for yt-x lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:11:38Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:42:17Z._
