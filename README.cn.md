@@ -14,14 +14,14 @@ x install yt-x
 
 ## 代码洞察
 
-合计: **5,210** 行代码（覆盖前 5 种语言、共 **12** 个文件）。
+合计: **4,202** 行代码（覆盖前 5 种语言、共 **11** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Sh | 5,126 | 362 | 733 | 6 |
+| Sh | 4,118 | 350 | 730 | 5 |
 | Nix | 64 | 0 | 8 | 2 |
 | Bitbake | 20 | 10 | 2 | 2 |
-| Markdown | 0 | 826 | 354 | 1 |
+| Markdown | 0 | 824 | 352 | 1 |
 | Text | 0 | 1 | 0 | 1 |
 
 ## 源代码
@@ -31,42 +31,42 @@ x install yt-x
 
 ## 发布
 
-- **最新版本**: `v0.8.6` (2026-06-07)
-- **最近提交**: 2026-08-30
+- **最新版本**: `v0.8.7` (2026-10-01)
+- **最近提交**: 2026-10-01
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 1,665 · **Fork**: 79 · **开放 issue**: 132 · **贡献者**: 27
+- **Star**: 1,665 · **Fork**: 79 · **开放 issue**: 132 · **贡献者**: 28
 
 ## 累计统计
 
-- **发布数**: 20 · **已合并 PR**: 45 · **开放 PR**: 1 · **已关闭 issue**: 122 · **开放 issue**: 10 · **提交数**: 584
+- **发布数**: 21 · **已合并 PR**: 46 · **开放 PR**: 0 · **已关闭 issue**: 123 · **开放 issue**: 9 · **提交数**: 588
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-02 | 0 | 2 | 1 | 2 | 1 | 13 |
-| 90d | 2026-07-03 | 0 | 3 | 1 | 5 | 2 | 25 |
-| last180d | 2026-04-04 | 11 | 10 | 1 | 24 | 8 | 315 |
-| 360d | 2025-10-06 | 11 | 18 | 1 | 48 | 10 | 332 |
-| last720d | 2024-10-11 | 19 | 45 | 1 | 121 | 10 | 539 |
+| 30d | 2026-09-02 | 1 | 1 | 0 | 0 | 0 | 4 |
+| last60d | 2026-08-03 | 1 | 3 | 0 | 3 | 0 | 17 |
+| 90d | 2026-07-04 | 1 | 4 | 0 | 6 | 1 | 29 |
+| last180d | 2026-04-05 | 12 | 11 | 0 | 25 | 7 | 319 |
+| 360d | 2025-10-07 | 12 | 19 | 0 | 49 | 9 | 336 |
+| last720d | 2024-10-12 | 20 | 46 | 0 | 122 | 9 | 543 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [br.lang](https://github.com/Benexl/yt-x/releases/download/v0.8.6/br.lang) | 23.5 KiB | `other` |
-| [catppuchin-mocha.theme](https://github.com/Benexl/yt-x/releases/download/v0.8.6/catppuchin-mocha.theme) | 3.2 KiB | `other` |
-| [dailymotion.site](https://github.com/Benexl/yt-x/releases/download/v0.8.6/dailymotion.site) | 4.6 KiB | `other` |
-| [downloads](https://github.com/Benexl/yt-x/releases/download/v0.8.6/downloads) | 8.1 KiB | `other` |
-| [es.lang](https://github.com/Benexl/yt-x/releases/download/v0.8.6/es.lang) | 24.1 KiB | `other` |
-| [mpv.conf](https://github.com/Benexl/yt-x/releases/download/v0.8.6/mpv.conf) | 613 B | `other` |
-| [rofi-themes.zip](https://github.com/Benexl/yt-x/releases/download/v0.8.6/rofi-themes.zip) | 4.4 KiB | `other` |
-| [yt-dlp.conf](https://github.com/Benexl/yt-x/releases/download/v0.8.6/yt-dlp.conf) | 1.1 KiB | `other` |
-| [yt-x](https://github.com/Benexl/yt-x/releases/download/v0.8.6/yt-x) | 163.1 KiB | `other` |
+| [br.lang](https://github.com/Benexl/yt-x/releases/download/v0.8.7/br.lang) | 23.5 KiB | `other` |
+| [catppuchin-mocha.theme](https://github.com/Benexl/yt-x/releases/download/v0.8.7/catppuchin-mocha.theme) | 3.2 KiB | `other` |
+| [dailymotion.site](https://github.com/Benexl/yt-x/releases/download/v0.8.7/dailymotion.site) | 2.3 KiB | `other` |
+| [downloads](https://github.com/Benexl/yt-x/releases/download/v0.8.7/downloads) | 8.1 KiB | `other` |
+| [es.lang](https://github.com/Benexl/yt-x/releases/download/v0.8.7/es.lang) | 24.2 KiB | `other` |
+| [mpv.conf](https://github.com/Benexl/yt-x/releases/download/v0.8.7/mpv.conf) | 651 B | `other` |
+| [rofi-themes.zip](https://github.com/Benexl/yt-x/releases/download/v0.8.7/rofi-themes.zip) | 4.4 KiB | `other` |
+| [yt-dlp.conf](https://github.com/Benexl/yt-x/releases/download/v0.8.7/yt-dlp.conf) | 1.1 KiB | `other` |
+| [yt-x](https://github.com/Benexl/yt-x/releases/download/v0.8.7/yt-x) | 166.9 KiB | `other` |
 
 ## 改进这些数据
 
@@ -77,4 +77,4 @@ yt-x 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261001.yml` · 2026-10-01T06:42:18Z._
+_数据快照: `data/card/261002.yml` · 2026-10-02T06:17:09Z._

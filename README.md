@@ -14,14 +14,14 @@ x install yt-x
 
 ## Code insight
 
-Total: **5,210** lines of code across **12** files in the top 5 languages.
+Total: **4,202** lines of code across **11** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Sh | 5,126 | 362 | 733 | 6 |
+| Sh | 4,118 | 350 | 730 | 5 |
 | Nix | 64 | 0 | 8 | 2 |
 | Bitbake | 20 | 10 | 2 | 2 |
-| Markdown | 0 | 826 | 354 | 1 |
+| Markdown | 0 | 824 | 352 | 1 |
 | Text | 0 | 1 | 0 | 1 |
 
 ## Source
@@ -31,42 +31,42 @@ Total: **5,210** lines of code across **12** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.8.6` (2026-06-07)
-- **Last commit**: 2026-08-30
+- **Latest**: `v0.8.7` (2026-10-01)
+- **Last commit**: 2026-10-01
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 1,665 · **Forks**: 79 · **Open issues**: 132 · **Contributors**: 27
+- **Stars**: 1,665 · **Forks**: 79 · **Open issues**: 132 · **Contributors**: 28
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 45 · **Open PRs**: 1 · **Closed issues**: 122 · **Open issues**: 10 · **Commits**: 584
+- **Releases**: 21 · **Merged PRs**: 46 · **Open PRs**: 0 · **Closed issues**: 123 · **Open issues**: 9 · **Commits**: 588
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-02 | 0 | 2 | 1 | 2 | 1 | 13 |
-| 90d | 2026-07-03 | 0 | 3 | 1 | 5 | 2 | 25 |
-| last180d | 2026-04-04 | 11 | 10 | 1 | 24 | 8 | 315 |
-| 360d | 2025-10-06 | 11 | 18 | 1 | 48 | 10 | 332 |
-| last720d | 2024-10-11 | 19 | 45 | 1 | 121 | 10 | 539 |
+| 30d | 2026-09-02 | 1 | 1 | 0 | 0 | 0 | 4 |
+| last60d | 2026-08-03 | 1 | 3 | 0 | 3 | 0 | 17 |
+| 90d | 2026-07-04 | 1 | 4 | 0 | 6 | 1 | 29 |
+| last180d | 2026-04-05 | 12 | 11 | 0 | 25 | 7 | 319 |
+| 360d | 2025-10-07 | 12 | 19 | 0 | 49 | 9 | 336 |
+| last720d | 2024-10-12 | 20 | 46 | 0 | 122 | 9 | 543 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [br.lang](https://github.com/Benexl/yt-x/releases/download/v0.8.6/br.lang) | 23.5 KiB | `other` |
-| [catppuchin-mocha.theme](https://github.com/Benexl/yt-x/releases/download/v0.8.6/catppuchin-mocha.theme) | 3.2 KiB | `other` |
-| [dailymotion.site](https://github.com/Benexl/yt-x/releases/download/v0.8.6/dailymotion.site) | 4.6 KiB | `other` |
-| [downloads](https://github.com/Benexl/yt-x/releases/download/v0.8.6/downloads) | 8.1 KiB | `other` |
-| [es.lang](https://github.com/Benexl/yt-x/releases/download/v0.8.6/es.lang) | 24.1 KiB | `other` |
-| [mpv.conf](https://github.com/Benexl/yt-x/releases/download/v0.8.6/mpv.conf) | 613 B | `other` |
-| [rofi-themes.zip](https://github.com/Benexl/yt-x/releases/download/v0.8.6/rofi-themes.zip) | 4.4 KiB | `other` |
-| [yt-dlp.conf](https://github.com/Benexl/yt-x/releases/download/v0.8.6/yt-dlp.conf) | 1.1 KiB | `other` |
-| [yt-x](https://github.com/Benexl/yt-x/releases/download/v0.8.6/yt-x) | 163.1 KiB | `other` |
+| [br.lang](https://github.com/Benexl/yt-x/releases/download/v0.8.7/br.lang) | 23.5 KiB | `other` |
+| [catppuchin-mocha.theme](https://github.com/Benexl/yt-x/releases/download/v0.8.7/catppuchin-mocha.theme) | 3.2 KiB | `other` |
+| [dailymotion.site](https://github.com/Benexl/yt-x/releases/download/v0.8.7/dailymotion.site) | 2.3 KiB | `other` |
+| [downloads](https://github.com/Benexl/yt-x/releases/download/v0.8.7/downloads) | 8.1 KiB | `other` |
+| [es.lang](https://github.com/Benexl/yt-x/releases/download/v0.8.7/es.lang) | 24.2 KiB | `other` |
+| [mpv.conf](https://github.com/Benexl/yt-x/releases/download/v0.8.7/mpv.conf) | 651 B | `other` |
+| [rofi-themes.zip](https://github.com/Benexl/yt-x/releases/download/v0.8.7/rofi-themes.zip) | 4.4 KiB | `other` |
+| [yt-dlp.conf](https://github.com/Benexl/yt-x/releases/download/v0.8.7/yt-dlp.conf) | 1.1 KiB | `other` |
+| [yt-x](https://github.com/Benexl/yt-x/releases/download/v0.8.7/yt-x) | 166.9 KiB | `other` |
 
 ## Improve this data
 
@@ -77,4 +77,4 @@ Install metadata for yt-x lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:42:17Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:17:08Z._
