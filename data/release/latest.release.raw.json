@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3280,
       "digest": "sha256:105b1a80a35e02de42f0bf1f95afd649f544fcf052fcdcc29f71212599d655c1",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-01T10:40:09Z",
       "updated_at": "2026-10-01T10:40:09Z",
       "browser_download_url": "https://github.com/Benexl/yt-x/releases/download/v0.8.7/catppuchin-mocha.theme"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 170913,
       "digest": "sha256:efba5ebb1007f6c5966624d91eaaa48b5879ac5dd21be15058ee5ebb7c7d7077",
-      "download_count": 16,
+      "download_count": 28,
       "created_at": "2026-10-01T10:40:09Z",
       "updated_at": "2026-10-01T10:40:09Z",
       "browser_download_url": "https://github.com/Benexl/yt-x/releases/download/v0.8.7/yt-x"
@@ -364,5 +364,17 @@
   "tarball_url": "https://api.github.com/repos/Benexl/yt-x/tarball/v0.8.7",
   "zipball_url": "https://api.github.com/repos/Benexl/yt-x/zipball/v0.8.7",
   "body": "## What's Changed\r\n* feat!: shift menu sorting to use awk by @Benexl in https://github.com/Benexl/yt-x/pull/180\r\n* fix: termux issues by @DanSM-5 in https://github.com/Benexl/yt-x/pull/186\r\n* fix: support of fzf preview window on git-bash windows by @DanSM-5 in https://github.com/Benexl/yt-x/pull/182\r\n* fix(menu-edit-config): rofi fails to return after editing config interactively; where your default launcher is fzf by @Benexl in https://github.com/Benexl/yt-x/pull/189\r\n* Feat: add open in browser for channels by @Benexl in https://github.com/Benexl/yt-x/pull/192\r\n* Update flake.lock by @VoidNoi in https://github.com/Benexl/yt-x/pull/194\r\n\r\n## New Contributors\r\n* @DanSM-5 made their first contribution in https://github.com/Benexl/yt-x/pull/186\r\n* @VoidNoi made their first contribution in https://github.com/Benexl/yt-x/pull/194\r\n\r\n**Full Changelog**: https://github.com/Benexl/yt-x/compare/v0.8.6...v0.8.7",
+  "reactions": {
+    "url": "https://api.github.com/repos/Benexl/yt-x/releases/400868394/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 1,
+    "eyes": 0
+  },
   "mentions_count": 3
 }
