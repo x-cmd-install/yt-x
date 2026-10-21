@@ -14,11 +14,11 @@ x install yt-x
 
 ## Code insight
 
-Total: **4,206** lines of code across **11** files in the top 5 languages.
+Total: **4,252** lines of code across **11** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Sh | 4,122 | 350 | 728 | 5 |
+| Sh | 4,168 | 350 | 732 | 5 |
 | Nix | 64 | 0 | 8 | 2 |
 | Bitbake | 20 | 10 | 2 | 2 |
 | Markdown | 0 | 845 | 361 | 1 |
@@ -32,27 +32,27 @@ Total: **4,206** lines of code across **11** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.8.7` (2026-10-01)
-- **Last commit**: 2026-10-19
+- **Last commit**: 2026-10-20
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 1,679 · **Forks**: 93 · **Open issues**: 135 · **Contributors**: 28
+- **Stars**: 1,680 · **Forks**: 83 · **Open issues**: 135 · **Contributors**: 29
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 47 · **Open PRs**: 1 · **Closed issues**: 125 · **Open issues**: 10 · **Commits**: 589
+- **Releases**: 21 · **Merged PRs**: 48 · **Open PRs**: 0 · **Closed issues**: 125 · **Open issues**: 10 · **Commits**: 590
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 1 | 2 | 1 | 2 | 1 | 5 |
-| last60d | 2026-08-21 | 1 | 3 | 1 | 4 | 1 | 7 |
-| 90d | 2026-07-22 | 1 | 4 | 1 | 6 | 2 | 26 |
-| last180d | 2026-04-23 | 12 | 12 | 1 | 27 | 8 | 320 |
-| 360d | 2025-10-25 | 12 | 19 | 1 | 49 | 10 | 336 |
-| last720d | 2024-10-30 | 20 | 47 | 1 | 124 | 10 | 544 |
+| 30d | 2026-09-21 | 1 | 3 | 0 | 2 | 1 | 6 |
+| last60d | 2026-08-22 | 1 | 4 | 0 | 4 | 1 | 8 |
+| 90d | 2026-07-23 | 1 | 5 | 0 | 6 | 2 | 27 |
+| last180d | 2026-04-24 | 12 | 13 | 0 | 26 | 8 | 321 |
+| 360d | 2025-10-26 | 12 | 20 | 0 | 49 | 10 | 337 |
+| last720d | 2024-10-31 | 20 | 48 | 0 | 124 | 10 | 545 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for yt-x lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:30:58Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:17:06Z._
