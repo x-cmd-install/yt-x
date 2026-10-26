@@ -47,12 +47,12 @@ Total: **4,259** lines of code across **11** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 1 | 4 | 0 | 2 | 1 | 7 |
-| last60d | 2026-08-26 | 1 | 4 | 0 | 3 | 1 | 9 |
-| 90d | 2026-07-27 | 1 | 6 | 0 | 6 | 1 | 28 |
-| last180d | 2026-04-28 | 12 | 14 | 0 | 25 | 8 | 322 |
-| 360d | 2025-10-30 | 12 | 21 | 0 | 49 | 10 | 338 |
-| last720d | 2024-11-04 | 20 | 49 | 0 | 124 | 10 | 546 |
+| 30d | 2026-09-26 | 1 | 4 | 0 | 2 | 1 | 3 |
+| last60d | 2026-08-27 | 1 | 4 | 0 | 3 | 1 | 7 |
+| 90d | 2026-07-28 | 1 | 6 | 0 | 5 | 1 | 20 |
+| last180d | 2026-04-29 | 12 | 14 | 0 | 25 | 8 | 320 |
+| 360d | 2025-10-31 | 12 | 21 | 0 | 49 | 10 | 338 |
+| last720d | 2024-11-05 | 20 | 49 | 0 | 124 | 10 | 546 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for yt-x lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:16:36Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:15:17Z._
