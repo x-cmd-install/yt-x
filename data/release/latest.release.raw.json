@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3280,
       "digest": "sha256:105b1a80a35e02de42f0bf1f95afd649f544fcf052fcdcc29f71212599d655c1",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-01T10:40:09Z",
       "updated_at": "2026-10-01T10:40:09Z",
       "browser_download_url": "https://github.com/Benexl/yt-x/releases/download/v0.8.7/catppuchin-mocha.theme"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 8279,
       "digest": "sha256:07373d24fa18b566693a353cfcc0f17456ae896b21a59032ac91f5b3d4c0bceb",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-10-01T10:40:09Z",
       "updated_at": "2026-10-01T10:40:09Z",
       "browser_download_url": "https://github.com/Benexl/yt-x/releases/download/v0.8.7/downloads"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 651,
       "digest": "sha256:64bcddd02fcbb1cccaecdc80fb71a54bf10d5551c9c44d0559550c12d08d7239",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-01T10:40:09Z",
       "updated_at": "2026-10-01T10:40:09Z",
       "browser_download_url": "https://github.com/Benexl/yt-x/releases/download/v0.8.7/mpv.conf"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 4501,
       "digest": "sha256:9861dfe76faaf59f604e3fe394ea27e48566db2ed01a95f9bd4fb0f3a65d2f4b",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-01T10:40:09Z",
       "updated_at": "2026-10-01T10:40:09Z",
       "browser_download_url": "https://github.com/Benexl/yt-x/releases/download/v0.8.7/rofi-themes.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1102,
       "digest": "sha256:8eda361b6340ca61dbe77c8734ec0383b959dbe1285a39a087cb756ef094d061",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-01T10:40:09Z",
       "updated_at": "2026-10-01T10:40:09Z",
       "browser_download_url": "https://github.com/Benexl/yt-x/releases/download/v0.8.7/yt-dlp.conf"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 170913,
       "digest": "sha256:efba5ebb1007f6c5966624d91eaaa48b5879ac5dd21be15058ee5ebb7c7d7077",
-      "download_count": 1270,
+      "download_count": 1303,
       "created_at": "2026-10-01T10:40:09Z",
       "updated_at": "2026-10-01T10:40:09Z",
       "browser_download_url": "https://github.com/Benexl/yt-x/releases/download/v0.8.7/yt-x"
