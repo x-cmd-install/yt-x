@@ -21,7 +21,7 @@ Total: **4,259** lines of code across **11** files in the top 5 languages.
 | Sh | 4,175 | 350 | 732 | 5 |
 | Nix | 64 | 0 | 8 | 2 |
 | Bitbake | 20 | 10 | 2 | 2 |
-| Markdown | 0 | 845 | 361 | 1 |
+| Markdown | 0 | 846 | 362 | 1 |
 | Text | 0 | 1 | 0 | 1 |
 
 ## Source
@@ -32,7 +32,7 @@ Total: **4,259** lines of code across **11** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.8.7` (2026-10-01)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-11-04
 - **Assets in release**: 9
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **4,259** lines of code across **11** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 49 · **Open PRs**: 0 · **Closed issues**: 125 · **Open issues**: 11 · **Commits**: 591
+- **Releases**: 21 · **Merged PRs**: 49 · **Open PRs**: 0 · **Closed issues**: 125 · **Open issues**: 11 · **Commits**: 592
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 3 | 0 | 2 | 2 | 3 |
-| last60d | 2026-09-05 | 1 | 4 | 0 | 2 | 2 | 7 |
-| 90d | 2026-08-06 | 1 | 6 | 0 | 5 | 2 | 20 |
-| last180d | 2026-05-08 | 12 | 13 | 0 | 25 | 9 | 290 |
-| 360d | 2025-11-09 | 12 | 21 | 0 | 48 | 11 | 338 |
-| last720d | 2024-11-14 | 20 | 49 | 0 | 124 | 11 | 546 |
+| 30d | 2026-10-06 | 0 | 3 | 0 | 2 | 2 | 4 |
+| last60d | 2026-09-06 | 1 | 4 | 0 | 2 | 2 | 8 |
+| 90d | 2026-08-07 | 1 | 6 | 0 | 5 | 2 | 21 |
+| last180d | 2026-05-09 | 11 | 13 | 0 | 24 | 9 | 291 |
+| 360d | 2025-11-10 | 12 | 21 | 0 | 48 | 11 | 339 |
+| last720d | 2024-11-15 | 20 | 49 | 0 | 123 | 11 | 547 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for yt-x lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:12:56Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:22:42Z._
