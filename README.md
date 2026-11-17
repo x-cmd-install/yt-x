@@ -37,7 +37,7 @@ Total: **4,259** lines of code across **11** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,693 · **Forks**: 82 · **Open issues**: 136 · **Contributors**: 30
+- **Stars**: 1,694 · **Forks**: 82 · **Open issues**: 136 · **Contributors**: 30
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **4,259** lines of code across **11** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 3 | 1 | 0 | 1 | 3 |
-| last60d | 2026-09-17 | 1 | 5 | 1 | 2 | 2 | 9 |
-| 90d | 2026-08-18 | 1 | 7 | 1 | 5 | 2 | 11 |
-| last180d | 2026-05-20 | 7 | 11 | 1 | 14 | 7 | 120 |
-| 360d | 2025-11-21 | 12 | 21 | 1 | 48 | 11 | 333 |
-| last720d | 2024-11-26 | 17 | 47 | 1 | 121 | 11 | 512 |
+| 30d | 2026-10-18 | 0 | 3 | 1 | 0 | 1 | 3 |
+| last60d | 2026-09-18 | 1 | 5 | 1 | 2 | 2 | 9 |
+| 90d | 2026-08-19 | 1 | 6 | 1 | 5 | 2 | 11 |
+| last180d | 2026-05-21 | 7 | 11 | 1 | 14 | 7 | 120 |
+| 360d | 2025-11-22 | 12 | 21 | 1 | 48 | 11 | 333 |
+| last720d | 2024-11-27 | 17 | 47 | 1 | 120 | 11 | 509 |
 
 ## Release assets
 
@@ -68,10 +68,6 @@ Total: **4,259** lines of code across **11** files in the top 5 languages.
 | [yt-dlp.conf](https://github.com/Benexl/yt-x/releases/download/v0.8.7/yt-dlp.conf) | 1.1 KiB | `other` |
 | [yt-x](https://github.com/Benexl/yt-x/releases/download/v0.8.7/yt-x) | 166.9 KiB | `other` |
 
-## Distribution status
-
-Reported by **3** distros on [repology.org](https://repology.org/project/yt-x). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
 ## Improve this data
 
 Install metadata for yt-x lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `yt-x` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -81,4 +77,4 @@ Install metadata for yt-x lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:30:43Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:40:41Z._
