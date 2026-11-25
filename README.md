@@ -21,7 +21,7 @@ Total: **4,259** lines of code across **11** files in the top 5 languages.
 | Sh | 4,175 | 350 | 732 | 5 |
 | Nix | 64 | 0 | 8 | 2 |
 | Bitbake | 20 | 10 | 2 | 2 |
-| Markdown | 0 | 846 | 362 | 1 |
+| Markdown | 0 | 852 | 367 | 1 |
 | Text | 0 | 1 | 0 | 1 |
 
 ## Source
@@ -32,27 +32,27 @@ Total: **4,259** lines of code across **11** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.8.7` (2026-10-01)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-24
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 1,694 · **Forks**: 82 · **Open issues**: 136 · **Contributors**: 30
+- **Stars**: 1,695 · **Forks**: 82 · **Open issues**: 136 · **Contributors**: 31
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 50 · **Open PRs**: 1 · **Closed issues**: 126 · **Open issues**: 10 · **Commits**: 593
+- **Releases**: 21 · **Merged PRs**: 51 · **Open PRs**: 0 · **Closed issues**: 126 · **Open issues**: 10 · **Commits**: 594
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 1 | 1 | 0 | 1 | 2 |
-| last60d | 2026-09-25 | 1 | 5 | 1 | 3 | 1 | 9 |
-| 90d | 2026-08-26 | 1 | 5 | 1 | 4 | 1 | 9 |
-| last180d | 2026-05-28 | 7 | 11 | 1 | 15 | 5 | 86 |
-| 360d | 2025-11-29 | 12 | 21 | 1 | 48 | 10 | 330 |
-| last720d | 2024-12-04 | 17 | 46 | 1 | 117 | 10 | 503 |
+| 30d | 2026-10-26 | 0 | 2 | 0 | 0 | 1 | 3 |
+| last60d | 2026-09-26 | 1 | 6 | 0 | 3 | 1 | 10 |
+| 90d | 2026-08-27 | 1 | 6 | 0 | 4 | 1 | 10 |
+| last180d | 2026-05-29 | 7 | 12 | 0 | 14 | 5 | 87 |
+| 360d | 2025-11-30 | 12 | 22 | 0 | 48 | 10 | 331 |
+| last720d | 2024-12-05 | 17 | 47 | 0 | 117 | 10 | 503 |
 
 ## Release assets
 
@@ -68,10 +68,6 @@ Total: **4,259** lines of code across **11** files in the top 5 languages.
 | [yt-dlp.conf](https://github.com/Benexl/yt-x/releases/download/v0.8.7/yt-dlp.conf) | 1.1 KiB | `other` |
 | [yt-x](https://github.com/Benexl/yt-x/releases/download/v0.8.7/yt-x) | 166.9 KiB | `other` |
 
-## Distribution status
-
-Reported by **3** distros on [repology.org](https://repology.org/project/yt-x). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
 ## Improve this data
 
 Install metadata for yt-x lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `yt-x` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -81,4 +77,4 @@ Install metadata for yt-x lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:32:58Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:52:19Z._
