@@ -2,6 +2,8 @@
 
 [English version](./README.md)
 
+> ⚠️ 此项目已归档（archived）。
+
 Posix script to browse youtube plus other yt-dlp supported sites from your terminal (fzf) or app launcher (rofi) with optional previews. (supports bash, zsh and dash)
 
 [![x-cmd/install — yt-x Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/yt-x.svg?lang=zh)](https://x-cmd.com/install/yt-x)
@@ -21,7 +23,7 @@ x install yt-x
 | Sh | 4,175 | 350 | 732 | 5 |
 | Nix | 64 | 0 | 8 | 2 |
 | Bitbake | 20 | 10 | 2 | 2 |
-| Markdown | 0 | 852 | 367 | 1 |
+| Markdown | 0 | 845 | 362 | 1 |
 | Text | 0 | 1 | 0 | 1 |
 
 ## 源代码
@@ -32,7 +34,7 @@ x install yt-x
 ## 发布
 
 - **最新版本**: `v0.8.7` (2026-10-01)
-- **最近提交**: 2026-11-24
+- **最近提交**: 2026-11-27
 - **Release 含资产**: 9 个
 
 ## 流行度
@@ -41,18 +43,18 @@ x install yt-x
 
 ## 累计统计
 
-- **发布数**: 21 · **已合并 PR**: 51 · **开放 PR**: 1 · **已关闭 issue**: 126 · **开放 issue**: 10 · **提交数**: 594
+- **发布数**: 21 · **已合并 PR**: 51 · **开放 PR**: 0 · **已关闭 issue**: 136 · **开放 issue**: 0 · **提交数**: 596
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 2 | 1 | 0 | 1 | 3 |
-| last60d | 2026-09-28 | 1 | 6 | 1 | 3 | 1 | 10 |
-| 90d | 2026-08-29 | 1 | 6 | 1 | 3 | 1 | 10 |
-| last180d | 2026-05-31 | 7 | 12 | 1 | 14 | 5 | 87 |
-| 360d | 2025-12-02 | 12 | 22 | 1 | 48 | 10 | 331 |
-| last720d | 2024-12-07 | 17 | 47 | 1 | 116 | 10 | 503 |
+| 30d | 2026-10-29 | 0 | 2 | 0 | 1 | 0 | 5 |
+| last60d | 2026-09-29 | 1 | 6 | 0 | 4 | 0 | 12 |
+| 90d | 2026-08-30 | 1 | 6 | 0 | 4 | 0 | 12 |
+| last180d | 2026-06-01 | 7 | 12 | 0 | 19 | 0 | 89 |
+| 360d | 2025-12-03 | 12 | 22 | 0 | 58 | 0 | 333 |
+| last720d | 2024-12-08 | 15 | 47 | 0 | 126 | 0 | 503 |
 
 ## Release 资产
 
@@ -77,4 +79,4 @@ yt-x 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261127.yml` · 2026-11-27T09:50:43Z._
+_数据快照: `data/card/261128.yml` · 2026-11-28T09:00:18Z._

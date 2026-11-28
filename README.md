@@ -2,6 +2,8 @@
 
 [中文版本](./README.cn.md)
 
+> ⚠️ This project is archived.
+
 Posix script to browse youtube plus other yt-dlp supported sites from your terminal (fzf) or app launcher (rofi) with optional previews. (supports bash, zsh and dash)
 
 [![x-cmd/install — yt-x Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/yt-x.svg)](https://x-cmd.com/install/yt-x)
@@ -21,7 +23,7 @@ Total: **4,259** lines of code across **11** files in the top 5 languages.
 | Sh | 4,175 | 350 | 732 | 5 |
 | Nix | 64 | 0 | 8 | 2 |
 | Bitbake | 20 | 10 | 2 | 2 |
-| Markdown | 0 | 852 | 367 | 1 |
+| Markdown | 0 | 845 | 362 | 1 |
 | Text | 0 | 1 | 0 | 1 |
 
 ## Source
@@ -32,7 +34,7 @@ Total: **4,259** lines of code across **11** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.8.7` (2026-10-01)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-27
 - **Assets in release**: 9
 
 ## Popularity
@@ -41,18 +43,18 @@ Total: **4,259** lines of code across **11** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 51 · **Open PRs**: 1 · **Closed issues**: 126 · **Open issues**: 10 · **Commits**: 594
+- **Releases**: 21 · **Merged PRs**: 51 · **Open PRs**: 0 · **Closed issues**: 136 · **Open issues**: 0 · **Commits**: 596
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 2 | 1 | 0 | 1 | 3 |
-| last60d | 2026-09-28 | 1 | 6 | 1 | 3 | 1 | 10 |
-| 90d | 2026-08-29 | 1 | 6 | 1 | 3 | 1 | 10 |
-| last180d | 2026-05-31 | 7 | 12 | 1 | 14 | 5 | 87 |
-| 360d | 2025-12-02 | 12 | 22 | 1 | 48 | 10 | 331 |
-| last720d | 2024-12-07 | 17 | 47 | 1 | 116 | 10 | 503 |
+| 30d | 2026-10-29 | 0 | 2 | 0 | 1 | 0 | 5 |
+| last60d | 2026-09-29 | 1 | 6 | 0 | 4 | 0 | 12 |
+| 90d | 2026-08-30 | 1 | 6 | 0 | 4 | 0 | 12 |
+| last180d | 2026-06-01 | 7 | 12 | 0 | 19 | 0 | 89 |
+| 360d | 2025-12-03 | 12 | 22 | 0 | 58 | 0 | 333 |
+| last720d | 2024-12-08 | 15 | 47 | 0 | 126 | 0 | 503 |
 
 ## Release assets
 
@@ -77,4 +79,4 @@ Install metadata for yt-x lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:50:42Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:00:17Z._
