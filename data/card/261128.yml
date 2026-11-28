@@ -1,0 +1,122 @@
+about:
+  description: "Posix script to browse youtube plus other yt-dlp supported sites from your terminal (fzf) or app launcher (rofi) with optional previews. (supports bash, zsh and dash)"
+  license: MIT
+  homepage: 
+  head: 3683108
+  archived: true
+  latestVersion: "v0.8.7"
+  latestRelease: "v0.8.7"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T08:59:56Z
+timeline:
+  created: 2024-09-11
+  lastCommit: 2026-11-27
+  lastVersion: 2026-10-01
+  lastRelease: 2026-10-01
+  lastPrerelease: 
+popularity:
+  star: 1695
+  watcher: 20
+  fork: 82
+  release: 21
+  contributor: 31
+  pullRequest: 64
+  issue: 136
+language:
+  Shell: 239761
+  Nix: 1189
+  Lua: 385
+totalBytes: 241335
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 0
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 5
+  last60d:
+    since: 2026-09-29
+    release: 1
+    mergedPR: 6
+    openPR: 0
+    closedIssue: 4
+    openIssue: 0
+    commit: 12
+  last90d:
+    since: 2026-08-30
+    release: 1
+    mergedPR: 6
+    openPR: 0
+    closedIssue: 4
+    openIssue: 0
+    commit: 12
+  last180d:
+    since: 2026-06-01
+    release: 7
+    mergedPR: 12
+    openPR: 0
+    closedIssue: 19
+    openIssue: 0
+    commit: 89
+  last360d:
+    since: 2025-12-03
+    release: 12
+    mergedPR: 22
+    openPR: 0
+    closedIssue: 58
+    openIssue: 0
+    commit: 333
+  last720d:
+    since: 2024-12-08
+    release: 15
+    mergedPR: 47
+    openPR: 0
+    closedIssue: 126
+    openIssue: 0
+    commit: 503
+total:
+  release: 21
+  mergedPR: 51
+  openPR: 0
+  closedIssue: 136
+  openIssue: 0
+  commit: 596
+---
+path: /home/runner/.x-repo/github.com/Benexl/yt-x
+collectedAt: 2026-11-28T08:59:57Z
+loc:
+  Sh:
+    code: 4175
+    comments: 350
+    blanks: 732
+    files: 5
+  Nix:
+    code: 64
+    comments: 0
+    blanks: 8
+    files: 2
+  Bitbake:
+    code: 20
+    comments: 10
+    blanks: 2
+    files: 2
+  Markdown:
+    code: 0
+    comments: 845
+    blanks: 362
+    files: 1
+  Text:
+    code: 0
+    comments: 1
+    blanks: 0
+    files: 1
+total:
+  code: 4335
+  comments: 1233
+  blanks: 1119
+  files: 11
+---
+
+---
